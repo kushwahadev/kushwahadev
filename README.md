@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm [Dev Kushwaha] 👋
+
+Backend developer focused on building reliable, scalable APIs.
+Currently open to remote full-time and freelance opportunities.
+
+## Tech stack
+- **Languages:** Python, Node.js (JavaScript), Java, SQL
+- **Frameworks:** Express.js, FastAPI, Flask
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **DevOps:** Docker, GitHub Actions, AWS (EC2, S3)
+
+## What I'm working on
+- 🔨 Building [Project Name] — a REST API for [brief description]
+- 📖 Learning [current topic, e.g. Kubernetes / message queues]
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-contact-green)](mailto:YOUR_EMAIL)
