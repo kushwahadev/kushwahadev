@@ -26,8 +26,7 @@ Currently open to remote full-time and freelance opportunities.
 - **DevOps:** Docker, GitHub Actions, AWS (EC2, S3)
 
 ## What I'm working on
-- 🔨 Building [Project Name] — a REST API for [brief description]
-- 📖 Learning [current topic, e.g. Kubernetes / message queues]
+Content Showed soon
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](YOUR_LINKEDIN_URL)
